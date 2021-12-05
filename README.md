@@ -15,13 +15,14 @@ This new assignment consists of one technical analysis deliverable and a written
 ### Deliverable 1: Filter UFO sightings on multiple criteria
 1. The list element that creates the button is removed, and there are five list elements for filtering in the index.html file. The resuylt is as follow:
 
-#![5_filter.png]()
+#![5_Filter.png](https://github.com/Jcreye75/UFOs/blob/2ab010d0ab48c37769826ab9438cc71681822330/static/images/5_Filters.png)
+
 2. The event listener was modified to detect changes to each filter in the app.js file. 
 3. The updateFilters() function saves the element, value, and the id of the filter that was changed.
 4. The filterTable() function loops through all of the filters and keeps any data that matches the filter values. 
 5. The webpage filters the table correctly based on user input. Filters return as follows:
 
-#![Filters_Working.png]()
+#![Filters_Working.png](https://github.com/Jcreye75/UFOs/blob/2ab010d0ab48c37769826ab9438cc71681822330/static/images/Filters_Working.png)
 
 ### Recommendations: 
 The user must know exactly how dates, cities, or shapes are spelt in order to to a correct search.
